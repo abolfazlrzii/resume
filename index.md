@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/83268942?s=400&u=79dbdf4364b7cf6cda002af33265aef8e7fec6af&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/abolfazlrzii/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am   Abolfazl Rezaee
+I am studying software engineering at Payame Noor University of North Tehran.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Abolfazl 
+- Last Name :Rezaee
+- Birth Date: 1999/November/18
+- Marriage Status: single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ mobile phone repairer
++ C
++ Python
++ word press
++ ICDL 1
++ICDL 2
 
-- Bulleted
-- List
+### Favorites
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<ol>
+  <li> travel </li>
+  <li> Sports</li>
+</ol>
 
-[Link](url) and ![Image](src)
-```
+### Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Persian(Advanced)
+- English(Normal)
 
-### Jekyll Themes
+### working Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abolfazlrzii/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- I am working in Forum and mobile shop
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other Accounts
+-Gmail: abolfazlrezaee50@gmail.com
+- Quera Profile: <a href="https://quera.ir/profile/abolfazlrezaee ">My Profile</a>
