@@ -41,3 +41,4 @@ I am studying software engineering at Payame Noor University of North Tehran.
 ### Other Accounts
 -Gmail: abolfazlrezaee50@gmail.com
 - Quera Profile: <a href="https://quera.ir/profile/abolfazlrezaee ">My Profile</a>
+-   Persian Resume: <a href="https://abolfazlrzii.github.io/Resume-farsi/"> Resume </a>
