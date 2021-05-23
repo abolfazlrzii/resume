@@ -19,7 +19,7 @@ I am studying software engineering at Payame Noor University of North Tehran.
 + Python
 + word press
 + ICDL 1
-+ICDL 2
++ ICDL 2
 
 ### Favorites
 
